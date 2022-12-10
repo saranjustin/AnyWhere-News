@@ -1,2 +1,2 @@
 # AnyWhere News
- an app iwth a vision of keeping you updated->anywhere
+ an app with a vision of keeping you updated->anywhere
